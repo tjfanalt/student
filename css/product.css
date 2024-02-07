@@ -1,0 +1,248 @@
+body {
+    position: relative;
+}
+
+.via-scroll-nav {
+    position: fixed;
+    top: 50%;
+    z-index: 99;
+    width: 15rem;
+    left: 2%;
+}
+
+.product-sidebar a {
+    display: block;
+    font-size: 1rem;
+    font-family: 'SailecLight', sans-serif;
+    color: #295ca4;
+    font-weight: 400;
+}
+
+.product-sidebar a:active,
+.product-sidebar a:hover,
+.product-sidebar a:focus {
+    text-decoration: line-through;
+    font-weight: 500;
+}
+
+.activeNav a {
+    text-decoration: line-through;
+    font-weight: 500;
+}
+
+
+.josh-nav {
+    color: #1151BF;
+    background: #F9F9F9;
+
+}
+
+.josh-nav .navbar-brand {
+    font-size: 2rem;
+    font-family: 'SailecMedium', sans-serif;
+    color: #1151BF;
+}
+
+
+.josh-nav .navbar-brand:active,
+.josh-nav .navbar-brand:hover,
+.josh-nav .navbar-brand:focus {
+    font-family: 'SailecBold', sans-serif !important;
+    color: #1151BF !important;
+
+}
+
+
+.josh-nav a.nav-link {
+    font-family: 'Sailec', sans-serif;
+    color: #1151BF !important;
+}
+
+.josh-nav a.nav-link:active,
+.josh-nav a.nav-link:hover,
+.josh-nav a.nav-link:focus {
+    font-family: 'SailecMedium', sans-serif;
+    color: #1151BF !important;
+}
+
+
+footer p {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+
+.product-container:not(.long) div.long {
+    display: none;
+}
+
+.product-container.long div.short {
+    display: none;
+}
+
+.content-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: #0a3682;
+    color: white;
+}
+
+
+.content-buttons button {
+    margin: 0;
+    font-family: 'SailecLight', sans-serif;
+    background: none;
+    color: white;
+    border: 0;
+}
+
+
+.content-buttons button:active,
+.content-buttons button:hover,
+.content-buttons button:focus {
+    text-decoration: line-through;
+    font-family: 'Sailec', sans-serif;
+}
+
+.content-buttons .quick-read {
+    margin: 1rem;
+    outline: none;
+}
+
+.content-buttons .extended-read {
+    margin: 1rem;
+    outline: none;
+}
+
+
+
+.product-container {
+    margin-top: 5rem;
+
+}
+
+
+.product-container h1 {
+    margin-bottom: 2rem;
+}
+
+.product-container p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.product-container ul > li {
+    margin: 0.8rem 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.product-container a {
+    color: black;
+
+}
+
+.product-container ol > li {
+    margin: 0.8rem 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.product-container a:active,
+.product-container a:hover,
+.product-container a:focus {
+    color: #295ca4;
+    text-decoration: none;
+
+}
+
+
+.standard-row {
+    margin: 4rem 0;
+}
+
+.standard-row h2 {
+    text-align: center;
+}
+
+.standard-row hr {
+    margin: 2rem 0;
+}
+
+.standard-row h3 {
+    font-size: 1.5rem;
+    color: black;
+    margin-bottom: 2rem;
+}
+
+.standard-row img {
+    width: 100%;
+    height: auto;
+}
+
+.standard-row h4 {
+    color: #295ca4;
+    text-align: center;
+    font-size: 1.25rem;
+    margin: 3rem 0;
+}
+
+.no-top {
+    margin-top: 0;
+}
+
+.no-bottom {
+    margin-bottom: 0;
+}
+
+.paragraph-fix p {
+    margin: 2rem 0;
+
+}
+
+.text-align-center p {
+    text-align: center;
+}
+
+.toyota-fix h3 {
+    margin-top: 0;
+}
+
+.top-fix {
+    margin-top: 5rem;
+}
+
+.embed-responsive-toyota {
+    padding-bottom: 202.03%;
+}
+
+
+@media (max-width: 1400px) {
+
+    .via-scroll-nav {
+        width: 10rem;
+    }
+
+    .product-sidebar a {
+        font-size: 0.8rem;
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .navbar-light.josh-nav {
+        background: #F9F9F9;
+        box-shadow: 0px 2px 1px 1px rgba(191, 191, 191, 1);
+    }
+}
+
+
+@media (max-width: 765px) {
+
+    .toyota-fix h3 {
+        margin-top: 2rem;
+    }
+
+}

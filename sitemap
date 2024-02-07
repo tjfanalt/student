@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://joshfan.com/</loc>
+  <lastmod>2018-12-05T17:33:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/index.html</loc>
+  <lastmod>2018-12-05T17:33:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/about.html</loc>
+  <lastmod>2018-12-05T17:14:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/files/josh_resume.pdf</loc>
+  <lastmod>2018-12-05T17:23:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/via.html</loc>
+  <lastmod>2018-12-05T17:14:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/toyota.html</loc>
+  <lastmod>2018-12-05T17:14:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/radius.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/mp.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/refresh.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/knack.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/market-research.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/ier.html</loc>
+  <lastmod>2018-12-05T17:14:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/product-strategy.html</loc>
+  <lastmod>2018-12-05T17:14:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/files/via+rail+final+week.pdf</loc>
+  <lastmod>2018-12-05T17:14:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://joshfan.com/files/toyota_week4_final.pdf</loc>
+  <lastmod>2018-12-05T17:14:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
